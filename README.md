@@ -1,5 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/js/bootstrap.min.js" integrity="sha512-8Y8eGK92dzouwpROIppwr+0kPauu0qqtnzZZNEF8Pat5tuRNJxJXCkbQfJ0HlUG3y1HB3z18CSKmUo7i2zcPpg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
 <h1 align="center">Hi 👋, I'm Nagavamsi</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
@@ -20,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" class='text-center'>
-<a href="https://linkedin.com/in/snagavamsi123" style='padding-right:10px !important;margin-right: 20px !important;' target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="snagavamsi123" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/snagavamsi123" style='padding-right:20px !important;margin-right: 20px !important;' target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="snagavamsi123" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/snagavamsi123" style='padding-right:10px !important' target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerrank_logo_icon_145206.png" alt="https://www.hackerrank.com/snagavamsi123" height="40" width="40" /></a>
 </p>
 
