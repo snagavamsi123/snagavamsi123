@@ -28,4 +28,4 @@
 <h3 align="left">Statistics:</h3>
 <p style='width:300px !important'><img style='height:195px !important;' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snagavamsi123&show_icons=true&locale=en&layout=compact" alt="snagavamsi123" /></p>
 <p style='width:300px !important'>&nbsp;<img style='height:195px !important;' align="left" src="https://github-readme-stats.vercel.app/api?username=snagavamsi123&show_icons=true&locale=en" alt="snagavamsi123" /></p>
-<p style='width:300px !important'>&nbsp;<img align="center" style='height:195px !important;' align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=snagavamsi123&" alt="snagavamsi123" /></p>
+<p  align="center" style='width:300px !important'>&nbsp;<img align="center" style='height:195px !important;' align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=snagavamsi123&" alt="snagavamsi123" /></p>
