@@ -29,6 +29,6 @@
  </p>          
 <p style='width:200px !important'>&nbsp;
   <img style='height:195px !important;'  align="left" src="https://github-readme-stats.vercel.app/api?username=snagavamsi123&show_icons=true&locale=en" alt="snagavamsi123" />
-  </p>&nbsp;   
+  </p>   
 <p  align="center" style='width:200px !important'>&nbsp;<img  align="left" style='height:195px !important;' align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=snagavamsi123&" alt="snagavamsi123" /></p>
 </a>
