@@ -24,11 +24,11 @@
 
 <h3 align="left">Statistics:</h3>
 <a href='#'>   
-<p style='width:200px !important'>
+<!-- <p style='width:200px !important'>
     <img style='height:195px !important;'  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snagavamsi123&show_icons=true&locale=en&layout=compact" alt="snagavamsi123" />
  </p>          
 <p style='width:200px !important'>&nbsp;
   <img style='height:195px !important;'  align="left" src="https://github-readme-stats.vercel.app/api?username=snagavamsi123&show_icons=true&locale=en" alt="snagavamsi123" />
-  </p>   
+  </p>    -->
 <p  align="center" style='width:200px !important'>&nbsp;<img  align="left" style='height:195px !important;' align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=snagavamsi123&" alt="snagavamsi123" /></p>
 </a>
