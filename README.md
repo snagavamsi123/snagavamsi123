@@ -4,15 +4,13 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=snagavamsi123&label=Profile%20views&color=0e75b6&style=flat" alt="snagavamsi123" /> </p>
 
 
-
-
 - 🔭 I’m currently working on **Buzzworks**
 
-- 🌱 I’m currently learning **Flutter,React**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 💬 Ask me about **Python,Django,Jquery**
+- 💬 Ask me about **Python,Django,Jquery,React**
 
 - 📫 How to reach me **snagavamsi123@gmail.com**
 
