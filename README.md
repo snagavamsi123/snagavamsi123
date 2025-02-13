@@ -4,13 +4,13 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=snagavamsi123&label=Profile%20views&color=0e75b6&style=flat" alt="snagavamsi123" /> </p>
 
 
-- 🔭 I’m currently working on **Blue Cloud Softech**
+- 🔭 I’m currently working on **Augsidius Care**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Human Minds**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 💬 Ask me about **Python,Django,FastAPI,NextJS(React)**
+- 💬 Ask me about **Python,Django,FastAPI,Flask,NextJS(React)**
 
 - 📫 How to reach me **snagavamsi123@gmail.com**
 
@@ -22,11 +22,11 @@
 
 <h3 align="left">Statistics:</h3>
 <a href='#'>   
-<!-- <p style='width:200px !important'>
+ <p style='width:200px !important'>
     <img style='height:195px !important;'  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snagavamsi123&show_icons=true&locale=en&layout=compact" alt="snagavamsi123" />
  </p>          
 <p style='width:200px !important'>&nbsp;
   <img style='height:195px !important;'  align="left" src="https://github-readme-stats.vercel.app/api?username=snagavamsi123&show_icons=true&locale=en" alt="snagavamsi123" />
-  </p>    -->
+  </p>   
 <p  align="center" style='width:200px !important'>&nbsp;<img  align="left" style='height:195px !important;' align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=snagavamsi123&" alt="snagavamsi123" /></p>
 </a>
