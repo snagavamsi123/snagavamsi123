@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Augsidius Care**
 
-- 🌱 I’m currently learning **Human Minds**
+- 🌱 I’m currently learning on **something that i dont know**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
